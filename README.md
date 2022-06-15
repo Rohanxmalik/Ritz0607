@@ -6,7 +6,7 @@
       - Front end : HTML, CSS, Javascript;
       - Framework: React.js;
 - 💞️ I’m looking to collaborate on making new projects on web development.
-- 📫 How to reach me at rohanxmalik@gmail.com
+- 📫 How to reach me at rohanxmalik06@gmail.com
 
 <!---
 Ritz0607/Ritz0607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
