@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ritz0607
+- 👋 Hi, I’m @Rohanxamlik
 - 👀 I’m interested in Block chain Development
 - 🌱 I’m currently learning Frontend web development.
 - 😎 Technologies femiliar with:
